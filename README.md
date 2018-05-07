@@ -2,9 +2,18 @@
 
 There's an endless ocean of material to learn related to software development and craftsmanship. Once you've mastered the basics in [getting-started](https://github.com/DetroitAndroidPeerLab/getting-started), use these resources to continue your journey.
 
+## Note Taking App Tutorials
+
+Peer Lab member [Emre](https://github.com/androidpirate) has created a series of tutorials around building a note taking app. If you have already built your first Android app, try out these tutorials as your next step!
+
+1. [Note App RecyclerView Tutorial](https://androidpirate.github.io/NoteAppRecyclerView/)
+1. [Note App CardView Tutorial](https://androidpirate.github.io/NoteAppCardView/)
+1. [Note App Intents](https://androidpirate.github.io/NoteAppIntents/)
+1. [Note App SQLite Query](https://androidpirate.github.io/NoteAppSqliteQuery/)
+
 ## Yelp Android School
 
-The Android team at Yelp has a fantastic resource called [android-school](https://github.com/Yelp/android-school) that covers the more intricate parts of Android. The topics in the videos here may be a little intimidating for beginners, but if you've already made a few apps, you can learn a lot here you didn't even know you didn't know! 
+The Android team at Yelp has a fantastic resource called [android-school](https://github.com/Yelp/android-school) that covers the more intricate parts of Android. The topics in the videos here may be a little intimidating for beginners, but if you've already made a few apps, you can learn a lot here you didn't even know you didn't know!
 
 * [Yelp Android School](https://github.com/Yelp/android-school)
 
@@ -17,7 +26,7 @@ Udacity has intermediate and advanced levels of courses and videos beyond the be
 
 ## The Busy Coder's Guide to Android Development
 
-If you're already experienced with programming and development, and just need a searchable reference for how to do things in Android, we recommend [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/). At nearly 4000 (electronic) pages, this book is a whopper, but it covers just about everything you'd want to know about how to program for Android. 
+If you're already experienced with programming and development, and just need a searchable reference for how to do things in Android, we recommend [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/). At nearly 4000 (electronic) pages, this book is a whopper, but it covers just about everything you'd want to know about how to program for Android.
 
 Usage tip: search for the topic you're learning about. This book is more difficult to read cover to cover than _Ulysses_.
 
@@ -30,4 +39,3 @@ Google offers a certificate recognizing your proficiency and skill in Android de
 * [Associate Android Developer Certification Overview](https://developers.google.com/training/certification/associate-android-developer/)
 * [Certification Training Resources](https://developers.google.com/training/android/)
 * [Take the Exam!](https://payment.udacity.com/checkout/billing-info?google=true&sku=1289400)
-
